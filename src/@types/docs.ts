@@ -10,3 +10,7 @@ export type DocumentationRoute = {
     groupName: string
     nav: DocRouteNav[]
 }
+export type DiscoveryRoute = {
+    groupName: string
+    nav: DocRouteNav[]
+}
