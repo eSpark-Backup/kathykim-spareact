@@ -76,7 +76,7 @@
     "@types/react-simple-maps": "^3.0.0",
     "@types/react-syntax-highlighter": "^15.5.6",
     "@typescript-eslint/eslint-plugin": "^6.15.0",
-    "@typescript-eslint/parser": "^6.15.0",
+    "@typescript-eslint/parser": "^8.61.1",
     "@vitejs/plugin-react": "^6.0.2",
     "autoprefixer": "^10.4.14",
     "cross-env": "^7.0.3",
