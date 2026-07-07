@@ -22,7 +22,7 @@
     "@tanstack/match-sorter-utils": "^8.8.4",
     "@tanstack/react-table": "^8.8.5",
     "@visx/pattern": "^3.0.0",
-    "apexcharts": "^3.37.3",
+    "apexcharts": "^5.16.0",
     "axios": "^1.16.0",
     "classnames": "^2.3.2",
     "d3-dsv": "^3.0.1",
