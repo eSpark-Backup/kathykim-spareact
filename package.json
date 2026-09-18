@@ -50,7 +50,7 @@
     "react-portal": "^4.2.2",
     "react-quill": "^2.0.0",
     "react-redux": "^9.3.0",
-    "react-router-dom": "^6.30.4",
+    "react-router-dom": "^7.18.4",
     "react-scroll": "^1.8.9",
     "react-select": "^5.7.2",
     "react-simple-maps": "^3.0.0",
