@@ -65,7 +65,7 @@
     "@types/d3-fetch": "^3.0.7",
     "@types/d3-scale": "^4.0.3",
     "@types/lodash": "^4.17.24",
-    "@types/node": "^25.9.3",
+    "@types/node": "^26.6.0",
     "@types/react": "^18.0.28",
     "@types/react-beautiful-dnd": "^13.1.4",
     "@types/react-dom": "^19.2.3",
