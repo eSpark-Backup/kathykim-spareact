@@ -19,7 +19,7 @@
     "@fullcalendar/react": "^6.1.8",
     "@fullcalendar/timegrid": "^6.1.8",
     "@reduxjs/toolkit": "^1.9.3",
-    "@tanstack/match-sorter-utils": "^8.8.4",
+    "@tanstack/match-sorter-utils": "^9.2.6",
     "@tanstack/react-table": "^8.8.5",
     "@visx/pattern": "^3.0.0",
     "apexcharts": "^3.37.3",
